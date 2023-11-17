@@ -1,2 +1,2 @@
-# Deleter-DC-BOT
-Discord bot in python that has the function to purge channels/messages, purge multiple channels, ban/unban all, kick all, mute/unmute all, 
+# Mr Purge
+Discord bot in python that purges/nukes single channels or multiple channels and can delete every channel in a guild (WITH THE RIGHT PERMISSIONS)

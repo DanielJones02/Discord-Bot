@@ -19,7 +19,9 @@ Simple Discord bot for Python 3.11 (as of  this momment discord 3.12 is not supp
 
 #### ONLY PYTHON 3.11 SUPPORTED
 
- - Clone the repository `git clone https://github.com/DanielJones02/Deleter-DC-BOT` or download the latest release
+ - Clone the repository `git clone https://github.com/DanielJones02/Cleaner-Bot` or download the latest release
+
+ - cd into the directory `cd Cleaner-Bot`
 
  - run main.py WITH PYTHON 3.11 (it auto installs requirements). if that wont work run `pip install -r requirements.txt`
 

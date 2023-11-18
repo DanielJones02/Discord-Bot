@@ -147,5 +147,5 @@ async def delete_error(interaction: discord.Interaction):
     print(Fore.RED, f'/delete {interaction.channel} | Insufficient Perms | Executed By {interaction.user}', Fore.RESET)
 
 
-token = 'MTA3NTQzNDQ2MzIxNzA2NjAxNA.GIIdG2.IMitQm2n4dH1eeStDHkghwhBDqwbVVay_sBHas'
+token = ''
 bot.run(token)

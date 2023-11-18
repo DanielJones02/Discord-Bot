@@ -25,6 +25,19 @@ Simple Discord bot for **Python 3.11** (as of  this momment discord 3.12 is not 
 
  - `run main.py` **WITH PYTHON 3.11** (it auto installs requirements). if that wont work run `pip install -r requirements.txt`
 
+# Command List
+
+prefix = Slash commands
+
+- hello - Simple Test  command - /hello
+
+- say - Repeats what you said - /say Testing
+
+- nuke - Purges ALL messages in one channel (manage_channels & messages) - /nuke
+
+- nuke_everything - Purges EVERY SINGLE CHANNEL (admin needed) - /nuke_everything
+
+- delete - Deletes EVERY single channel (admin needed) - /delete
 
 <h3 align="center">Connect with Me:</h3>
 

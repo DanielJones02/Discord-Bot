@@ -19,7 +19,7 @@ Simple Discord bot for **Python 3.11** (as of  this momment discord 3.12 is not 
 
 #### ONLY PYTHON 3.11 SUPPORTED
 
- - Clone the repository `git clone https://github.com/DanielJones02/Cleaner-Bot` or download the latest release
+ - Clone the repository `https://github.com/DanielJones02/WipeWizard-Bot` or download the latest release
 
  - cd into the directory `cd Cleaner-Bot`
 

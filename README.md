@@ -10,7 +10,7 @@
 
 [📁 Active Projects](https://github.com/DanielJones02/Active-Projects)
 
-# Info
+# Info - Cleaner Bot
 
 Simple Discord bot for Python 3.11 (as of  this momment discord 3.12 is not supported). That uses slash commands and has the ability to purge/nuke channels (all of them at once, or one at a time). And can also delete every channel in a guild.
 

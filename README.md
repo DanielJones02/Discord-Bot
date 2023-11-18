@@ -29,7 +29,7 @@ Simple Discord bot for **Python 3.11** (as of  this momment discord 3.12 is not 
 
 prefix = Slash commands
 
-- hello - Simple Test  command - /hello
+- ping - Simple Test  command - /ping
 
 - say - Repeats what you said - /say Testing
 

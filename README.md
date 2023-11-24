@@ -12,18 +12,16 @@
 
 # Info - Cleaner Bot
 
-Simple Discord bot for **Python 3.11** (as of  this momment discord 3.12 is not supported). That uses slash commands and has the ability to purge/nuke channels (all of them at once, or one at a time). And can also delete every channel in a guild.
+Simple Discord bot. That uses slash commands and has the ability to purge/nuke channels (all of them at once, or one at a time). And can also delete every channel in a guild.
 
 
 # Installation
-
-#### ONLY PYTHON 3.11 SUPPORTED
 
  - Clone the repository `https://github.com/DanielJones02/Cleaner-Bot` or download the latest release
 
  - cd into the directory `cd Cleaner-Bot`
 
- - `run main.py` **WITH PYTHON 3.11** (it auto installs requirements). if that wont work run `pip install -r requirements.txt`
+ - `run main.py`. if that wont work run `pip install -r requirements.txt`
 
 # Command List
 

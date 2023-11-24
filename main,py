@@ -9,7 +9,7 @@ except ModuleNotFoundError:
     os.system('pip install colorama')
 
     # if program fails to auto install requirements
-    # run this in your terminal (with pip 3.11)
+    # run this in your terminal
     # pip install -r requirements.txt
 
 from discord.ext import commands
@@ -19,10 +19,6 @@ import time
 import discord
 
 bot = commands.Bot(command_prefix='$', intents=discord.Intents.all())
-
-
-# RUN IN 3.11 
-# As of this momment discord 3.12 is not supported yet (aiohttp has major bug in 3.12)
 
 @bot.event
 async def on_ready():

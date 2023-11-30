@@ -10,7 +10,7 @@
 
 [📁 Active Projects](https://github.com/DanielJones02/Active-Projects)
 
-# Info - Cleaner Bot
+# Infomation
 
 Simple Discord bot. That uses slash commands and has the ability to purge/nuke channels (all of them at once, or one at a time). And can also delete every channel in a guild.
 
@@ -36,31 +36,4 @@ prefix = Slash commands
 - nuke_everything - Purges EVERY SINGLE CHANNEL (admin needed) - /nuke_everything
 
 - delete - Deletes EVERY single channel (admin needed) - /delete
-
-<h3 align="center">Connect with Me:</h3>
-
-<p align="center">
-  <a href="I_will_change_later@gmail.com">✉️ Email</a> |
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile">💼 LinkedIn</a> |
-  <a href="https://twitter.com/yourtwitter">🐦 Twitter</a> |
-  <a href="https://www.youtube.com/channel/UCDRBLCjQSKVyy_cCxTpqRnw">🌐 Youtube Channel</a>
-</p>
-
-<h3 align="center">Hire Me:</h3>
-
-<p align="center">
-  Currently not available for hire
-</p>
-
-<div align="center">
-  <h2>💻 Tools, Languages, and Other Things I Work Well With 💻</h2>
-</div>
-
-<div align="center">
-  <img src="https://github.com/DanielJones02/DanielJones02/blob/main/images/Visual_Studio_Icon_2019.svg.png" width="48" height="48" alt="Visual Studio" />
-  <img src="https://github.com/DanielJones02/DanielJones02/blob/main/images/python.png" alt="Python" />
-  <img src="https://github.com/DanielJones02/DanielJones02/blob/main/images/html.png" alt="HTML" />
-  <img src="https://github.com/DanielJones02/DanielJones02/blob/main/images/css.png" alt="CSS" />
-  <img src="https://github.com/DanielJones02/DanielJones02/blob/main/images/C%2B%2B.png" alt="C++" />
-  <img src="https://github.com/DanielJones02/DanielJones02/blob/main/images/linux.png" alt="Linux" />
-</div>
+- 

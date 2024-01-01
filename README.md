@@ -17,9 +17,9 @@ Simple Discord bot. That uses slash commands and has the ability to purge/nuke c
 
 # Installation
 
- - Clone the repository `https://github.com/DanielJones02/Cleaner-Bot` or download the latest release
+ - Clone the repository `https://github.com/DanielJones02/Discord-Bot` or download the latest release
 
- - cd into the directory `cd Cleaner-Bot`
+ - cd into the directory `cd Discord-Bot`
 
  - `run main.py`. if that wont work run `pip install -r requirements.txt`
 
